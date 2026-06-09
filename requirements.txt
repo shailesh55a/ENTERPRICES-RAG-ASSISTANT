@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-groq
+faiss-cpu
+pypdf
+python-dotenv
+sentence-transformers
