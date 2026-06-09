@@ -1,6 +1,6 @@
 import streamlit as st
 
-from src.utils import save_uploaded_file
+from src.utils import  save_uploaded_file
 from src.ingestion_pipeline import process_pdf
 from src.qa import ask_question
 
