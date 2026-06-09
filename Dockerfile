@@ -6,4 +6,4 @@ COPY . .
 
 RUN pip install -r requirements.txt
 
-CMD ["streamlit","run","streamlit_app/app.py","--server.adress","0.0.0.0"]
+CMD ["streamlit","run","streamlit_app/app.py","--server.address","0.0.0.0"]
